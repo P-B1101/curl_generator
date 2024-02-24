@@ -1,3 +1,7 @@
+## 1.0.0
+
+* update lint to version 3.0.0
+* 
 ## 0.0.13
 
 * Bug fix on cache old request curl.

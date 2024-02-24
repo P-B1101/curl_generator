@@ -1,4 +1,4 @@
-part of curl_generator;
+part of '../curl_generator.dart';
 
 /// The [Curl] entry point.
 ///
@@ -61,14 +61,14 @@ class Curl {
     return _curl;
   }
 
-  /// intiialize [_curl] with [method] if it is not null.
+  /// initialize [_curl] with [method] if it is not null.
   static void _addMethod(String? method) {
     if (method == null) return;
     if (method.toUpperCase() == 'GET') return;
     _curl = 'curl --request ${method.toUpperCase()}';
   }
 
-  /// intiialize [_curl] with [url] if [_curl] is empty
+  /// initialize [_curl] with [url] if [_curl] is empty
   /// else add url to existing [_curl].
   static void _addUrl(String url) {
     if (_curl.isEmpty) {
