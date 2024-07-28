@@ -1,6 +1,5 @@
-import 'package:flutter_test/flutter_test.dart';
-
 import 'package:curl_generator/curl_generator.dart';
+import 'package:test/test.dart';
 
 void main() {
   test('test method if it is not null', () {

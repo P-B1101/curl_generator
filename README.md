@@ -1,6 +1,6 @@
 # curl_generator
 
-A Flutter package to create simple curl (bash) with params, headers and body.
+A Dart package to create simple curl (bash) with params, headers and body.
 
 ## Getting started
 

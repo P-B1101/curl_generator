@@ -1,6 +1,10 @@
+## 1.0.1
+
+* Update package to use in dart apps.
+* 
 ## 1.0.0
 
-* update lint to version 3.0.0
+* Update lint to version 3.0.0
 * 
 ## 0.0.13
 
