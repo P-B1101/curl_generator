@@ -1,10 +1,7 @@
-## 1.0.2
-
-* Update dart sdk to 3.5.0.
-* 
 ## 1.0.1
 
 * Update package to use in dart apps.
+* Update dart sdk to 3.5.0.
 * 
 ## 1.0.0
 
