@@ -2,15 +2,15 @@
 
 * Update package to use in dart apps.
 * Update dart sdk to 3.5.0.
-* 
+
 ## 1.0.0
 
 * Update lint to version 3.0.0
-* 
+
 ## 0.0.13
 
 * Bug fix on cache old request curl.
-* 
+
 ## 0.0.12
 
 * add method.
