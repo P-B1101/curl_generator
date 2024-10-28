@@ -1,4 +1,4 @@
-library curl_generator;
+library;
 
 import 'dart:convert';
 
