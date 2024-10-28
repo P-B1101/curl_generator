@@ -1,20 +1,16 @@
-name: curl_generator_example
-description: Demonstrates how to use the curl_generator package.
+name: example
+description: A sample command-line application.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
 
 environment:
-  sdk: ">=2.18.0 <3.0.0"
-  flutter: ">=1.17.0"
+  sdk: ^3.5.3
 
+# Add regular dependencies here.
 dependencies:
   curl_generator:
     path: ../
-  flutter:
-    sdk: flutter
-
-flutter:
-  uses-material-design: true
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^2.0.0
+  lints: ^4.0.0
+  test: ^1.24.0
