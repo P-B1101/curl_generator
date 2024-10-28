@@ -1,14 +1,14 @@
 name: curl_generator
 description: A Dart package to create simple curl (bash) with params, headers and body.
-version: 1.0.1
+version: 1.0.2
 homepage: https://b1101-portfolio.web.app
 repository: https://github.com/P-B1101/curl_generator
 
 environment:
-  sdk: 3.5.0
+  sdk: ^3.5.3
 
 
 dev_dependencies:
-  test: ^1.25.8
-  lints: ^4.0.0
+  test: 
+  lints:
 
